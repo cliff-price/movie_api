@@ -1,54 +1,53 @@
-URL: /
-Timestamp: Fri Jul 28 2023 13:31:36 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 13:31:36 GMT-0500 (Central Daylight Time)
-
-URL: /documentation.html
-Timestamp: Fri Jul 28 2023 13:31:57 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 13:31:57 GMT-0500 (Central Daylight Time)
-
-URL: /
-Timestamp: Fri Jul 28 2023 13:34:37 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 13:34:37 GMT-0500 (Central Daylight Time)
-
-URL: /documentation
-Timestamp: Fri Jul 28 2023 13:34:47 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 13:34:48 GMT-0500 (Central Daylight Time)
-
-URL: /
-Timestamp: Fri Jul 28 2023 13:35:28 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 13:35:28 GMT-0500 (Central Daylight Time
-
-URL: /
-Timestamp: Fri Jul 28 2023 17:48:51 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 17:48:51 GMT-0500 (Central Daylight Time)
-
-URL: /
-Timestamp: Fri Jul 28 2023 17:49:13 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 17:49:13 GMT-0500 (Central Daylight Time)
-
-URL: /documentation
-Timestamp: Fri Jul 28 2023 17:49:37 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 17:49:38 GMT-0500 (Central Daylight Time)
-
-URL: /SomethingElse
-Timestamp: Fri Jul 28 2023 17:58:38 GMT-0500 (Central Daylight Time)
-
-URL: /favicon.ico
-Timestamp: Fri Jul 28 2023 17:58:38 GMT-0500 (Central Daylight Time)
-
+::1 - - [31/Jul/2023:00:13:47 +0000] "GET /secreturl HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:00:15:52 +0000] "GET /secreturl HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:00:16:39 +0000] "GET /secreturl HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:11:46 +0000] "GET /secreturl HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:11:57 +0000] "GET /documentation HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:12:07 +0000] "GET /books HTTP/1.1" 500 1514 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:12:18 +0000] "GET /movies HTTP/1.1" 404 145 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:13:44 +0000] "GET / HTTP/1.1" 200 25 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:13:55 +0000] "GET /secreturl HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:14:04 +0000] "GET /documentation HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:14:12 +0000] "GET /movies HTTP/1.1" 500 1514 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:15:27 +0000] "GET /movies HTTP/1.1" 500 1518 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:15:46 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:15:57 +0000] "GET /documentation HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:16:04 +0000] "GET /movies HTTP/1.1" 500 1518 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:18:20 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:18:29 +0000] "GET /secreturl HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:18:39 +0000] "GET /documentation HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:18:48 +0000] "GET /movies HTTP/1.1" 200 202 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:32:10 +0000] "GET / HTTP/1.1" 200 27 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:39:10 +0000] "GET / HTTP/1.1" 200 122 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:47:12 +0000] "GET / HTTP/1.1" 200 27 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:50:54 +0000] "GET / HTTP/1.1" 200 114 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:51:08 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:59:16 +0000] "GET /movies HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:59:25 +0000] "GET /documentation HTTP/1.1" 301 193 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:01:59:25 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:01:16 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:02:07 +0000] "GET /movies HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:02:14 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:02:27 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:05:40 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:05:45 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:05:57 +0000] "GET /documentation.html HTTP/1.1" 404 157 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:21:26 +0000] "GET /movies HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:21:37 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:27:44 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:48:00 +0000] "GET /documenta HTTP/1.1" 404 148 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:55:44 +0000] "GET /documenta HTTP/1.1" 404 148 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:56:28 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:56:47 +0000] "GET /movies HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:57:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:57:57 +0000] "GET /secreturl HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:02:58:08 +0000] "GET /what HTTP/1.1" 404 143 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:03:03:39 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:03:03:51 +0000] "GET /movies HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:03:04:14 +0000] "GET /broke HTTP/1.1" 404 144 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:03:04:33 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:16:12:58 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:16:13:21 +0000] "GET /somethingelse HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:16:20:08 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:16:26:10 +0000] "GET /movies HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
+::1 - - [31/Jul/2023:16:26:20 +0000] "GET /documentation/ HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188"
