@@ -49,18 +49,10 @@ app.use(morgan('combined', {stream: accessLogStream}));
 // GET requests
 
 app.get('/', (req, res) => {
-    res.send('Welcome to my movie page!  Enter "/movies" to see a list of my top 10 movies.  Enter "/documentation" for more help.');
-  });
-  
-  /*app.get('/documentation', (req, res) => {                  
-    res.sendFile('public/documentation.html', { root: __dirname });
+    res.send('Welcome to my movie page!  Enter "/movies" to see a list of my top 10 movies.  Enter "/documentation.html" for more help.');
   });
 
-  app.use('/documentation', express.static('public'));
-  
-  app.use('/documentation', express.static('public/documentation.html'));
-  */
-  app.use('/documentation', express.static(path.join(__dirname, 'public')))
+  app.use(express.static('public'));
   
   app.get('/movies', (req, res) => {
     res.json(topTenMovies);
